@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NuevaActividad</string>
+    <string name="btnText">Lanzar actividad dos</string>
+    <string name="varOpcional">Variable Opciional</string>
+</resources>
